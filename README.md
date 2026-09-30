@@ -1,1 +1,1 @@
-# finance_planning_website.html
+Rename website file to index.html
